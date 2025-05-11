@@ -9,6 +9,4 @@ redirect_from:
 
 Hi,  
 
-I am Jiahe Guo (郭家和 in Chinese), a second-year undergraduate student at Institute for Interdisciplinary Information Sciences, Tsinghua University.  
-
-My research interests lie in computer vision, with a particular focus on 3D vision.
+I am Jiahe Guo (郭家和 in Chinese), a second-year undergraduate student at Institute for Interdisciplinary Information Sciences, Tsinghua University.
